@@ -6,6 +6,10 @@ This program use RK2 method to track every seed points.
 These seed points will stop if they overlap another stream line.
 Use different grid size to sift seed points layer by layer.
 
+#Scientific visualization
+
+#OpenGL
+#C
 
 demo image:
 
