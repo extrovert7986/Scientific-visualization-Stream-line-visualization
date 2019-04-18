@@ -1,6 +1,6 @@
 # Scientific-visualization-Stream-line-visualization
 
-Stream line visualization can visualize different vector field.
+Stream line can visualize different vector field.
 
 This program use RK2 method to track every seed points.
 These seed points will stop if they overlap another stream line.
